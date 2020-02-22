@@ -4,4 +4,4 @@ This project contains all notebooks done throughout the course Investment at EPF
 
 Details and notes: ...
 
-This is a git test. And I wanna create a conflict.
+This is a git test. Let's create a conflict!
